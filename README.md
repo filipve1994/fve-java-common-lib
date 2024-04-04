@@ -17,4 +17,8 @@ personal library package with common tools shared across various projects for ja
   - here, we will store everything for services that will provide API methods. For example, configuration for autogeneration of documentation and the like. It can be used by user-service and gateway.
 - testing
   - all stuff related to testing
+- entities
+  - jpa entities optionally usable
+- domain
+  - domain stuff like enums, models, dtos, etc. that can be used in multiple places without special libs or so
 - Any other submodules you may need.
