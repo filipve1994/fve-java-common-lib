@@ -11,6 +11,7 @@
 
     <groupId>io.filipvde.client</groupId>
     <artifactId>client</artifactId>
+    <description>in this submodule, we can store everything that may be needed in microservices that interact with other APIs. It can be used as a gateway.</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

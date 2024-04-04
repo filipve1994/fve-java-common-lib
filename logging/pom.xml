@@ -11,6 +11,7 @@
 
     <groupId>io.filipvde.logging</groupId>
     <artifactId>logging</artifactId>
+    <description>in this, we will be able to describe the configuration to send all our logs to Splunk.</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

@@ -11,6 +11,7 @@
 
     <groupId>io.filipvde.core</groupId>
     <artifactId>core</artifactId>
+    <description>in it, we will store something basic for all microservices. For example, some of our basic exceptions are PlatformException or ApplicationException. We can also store there some basic data structures like Pair, Timer, and all similar things that can be used in any of our microservices regardless of their purpose.</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

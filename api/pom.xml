@@ -11,6 +11,7 @@
 
     <groupId>io.filipvde.api</groupId>
     <artifactId>api</artifactId>
+    <description>here, we will store everything for services that will provide API methods. For example, configuration for autogeneration of documentation and the like. It can be used by user-service and gateway.</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

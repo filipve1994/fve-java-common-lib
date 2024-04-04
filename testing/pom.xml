@@ -11,6 +11,7 @@
 
     <groupId>io.filipvde.testing</groupId>
     <artifactId>testing</artifactId>
+    <description>all stuff related to testing</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

@@ -11,6 +11,8 @@
 
     <groupId>io.filipvde.utils</groupId>
     <artifactId>utils</artifactId>
+    <description>in this module, we will store general-purpose utility classes. For example, classes for working with dates, prices, JSON, etc.
+    </description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

@@ -11,6 +11,7 @@
 
     <groupId>io.filipvde.database</groupId>
     <artifactId>database</artifactId>
+    <description>submodule will contain some useful things for working with the database. It can be custom serializers / deserializers of database fields and many other things. In our example, this submodule can be used by user-service and notification-service.</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
