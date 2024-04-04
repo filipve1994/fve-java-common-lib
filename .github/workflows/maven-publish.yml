@@ -6,10 +6,10 @@ name: Maven Package
 on:
   release:
     types: [created]
-#    # this will trigger everytime for every push for every branch
-#  push:
-#    branches:
-#      - '*'
+    # this will trigger everytime for every push for every branch
+  push:
+    branches:
+      - '*'
 
 jobs:
   build:
